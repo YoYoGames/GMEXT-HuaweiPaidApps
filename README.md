@@ -7,6 +7,8 @@ This extension will only work on Android.
 
 * Android: `source/HuaweiPaidApps_gml/extensions/HuaweiPaidApps/AndroidSource/Java/`
 
+<br>
+
 ## Documentation
 
 * Check [the documentation](../../wiki)
