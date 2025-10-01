@@ -10,7 +10,7 @@
  *
  * @func_end
  */
-  function huawei_paid_apps_check()
+function huawei_paid_apps_check() {}
   
 /**
  * @module home

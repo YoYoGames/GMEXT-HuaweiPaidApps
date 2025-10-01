@@ -1,1 +1,1 @@
-* ### [HuaweiPaidApps Extension](Home)
+* ### [HuaweiPaidApps Extension](home)

@@ -16,9 +16,9 @@
   "exportToGame":true,
   "extensionVersion":"0.0.1",
   "files":[
-    {"$GMExtensionFile":"","%Name":"HuaweiPaidApps.ext","constants":[],"copyToTargets":-1,"filename":"HuaweiPaidApps.ext","final":"","functions":[
+    {"$GMExtensionFile":"v1","%Name":"HuaweiPaidApps.ext","constants":[],"copyToTargets":-1,"filename":"HuaweiPaidApps.ext","final":"","functions":[
         {"$GMExtensionFunction":"","%Name":"huawei_paid_apps_check","argCount":0,"args":[],"documentation":"","externalName":"huawei_paid_apps_check","help":"huawei_paid_apps_check()","hidden":false,"kind":4,"name":"huawei_paid_apps_check","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":1,},
-      ],"init":"","kind":4,"name":"HuaweiPaidApps.ext","order":[],"origname":"","ProxyFiles":[],"resourceType":"GMExtensionFile","resourceVersion":"2.0","uncompress":false,"usesRunnerInterface":false,},
+      ],"init":"","kind":4,"name":"HuaweiPaidApps.ext","origname":"","ProxyFiles":[],"resourceType":"GMExtensionFile","resourceVersion":"2.0","uncompress":false,"usesRunnerInterface":false,},
   ],
   "gradleinject":"\r\n    implementation 'com.huawei.hms:drm:2.5.8.301'\r\n",
   "hasConvertedCodeInjection":true,
