@@ -14,7 +14,7 @@
   "copyToTargets":-1,
   "description":"",
   "exportToGame":true,
-  "extensionVersion":"0.0.1",
+  "extensionVersion":"1.0.0",
   "files":[
     {"$GMExtensionFile":"v1","%Name":"HuaweiPaidApps.ext","constants":[],"copyToTargets":-1,"filename":"HuaweiPaidApps.ext","final":"","functions":[
         {"$GMExtensionFunction":"","%Name":"huawei_paid_apps_check","argCount":0,"args":[],"documentation":"","externalName":"huawei_paid_apps_check","help":"huawei_paid_apps_check()","hidden":false,"kind":4,"name":"huawei_paid_apps_check","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":1,},
